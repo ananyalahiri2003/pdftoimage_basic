@@ -1,3 +1,10 @@
+## Repo function
+Run this on a directory with pdfs. 
+ 
+For each pdf file in input_folder, it 
+- creates a subdir in the output_folder 
+- saves one image per page of the pdf in that subdirectory.  
+
 ## Setup
 
 ### Clone the repository
