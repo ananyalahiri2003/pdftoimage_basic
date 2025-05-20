@@ -1,7 +1,7 @@
 """
 python src/app.py \
---input-folder /Users/ananyalahiri/Downloads/testDocuments-Claudius-2025-04_limitedPages \
---output-folder /Users/ananyalahiri/Downloads/testDocuments-Claudius-images
+--input-folder /Users/nhat/Downloads/testDocuments-Claudius-2025-04_limitedPages \
+--output-folder /Users/nhat/Downloads/testDocuments-Claudius-images
 """
 
 import fitz
